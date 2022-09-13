@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>RUSH</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap");
+      @import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital@1&display=swap");
+      html {
+        height: 100%;
+      }
+      body {
+        text-align: center;
+        background: rgb(255, 197, 224);
+        background: linear-gradient(180deg, #ffc5e0 10%, #ca637f 80%);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: "Prompt", sans-serif;
+        margin: 0px;
+        padding-top: 20px;
+      }
+      #nav_bar_content {
+        background-color: #ca637f;
+        height: 48px;
+        font-size: 24px;
+        padding-top: 12px;
+        width: 100%;
+        position: fixed;
+        margin-top: -28px;
+        z-index: 1;
+      }
+      #nav_bar_item {
+        display: inline-block;
+        width: 30%;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+      }
+      #home_section {
+        background: linear-gradient(0deg, #ffc5e0 10%, purple 80%);
+        width: 80%;
+        height: 27vw;
+        position: relative;
+        left: 5%;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        border-radius: 30px;
+        padding: 5%;
+        display: flex;
+      }
+      /* #field {
+        height: 400px;
+        width: 400px;
+        background-color: #ffffff;
+        margin: 10px;
+        padding: 10px;
+        display: flex;
+      } */
+      #left {
+        height: 15vw;
+        width: 77%;
+        /* background-color: #000000; */
+        color: #000000;
+        margin: 10px;
+        text-align: left;
+        padding-left: 3vw;
+        padding-top: 12vw;
+        font-size: 2vw;
+      }
+      #right {
+        height: 27vw;
+        width: 23%;
+        /* background-color: #000000; */
+        background-image: url(https://github.com/papad21297/images-on-github/blob/main/profile-picture-for-webpage-based-cv.jpg?raw=true);
+        background-size: cover;
+        color: #ffffff;
+        margin: 10px;
+      }
+      /* #home_section_content_section {
+        background-color: #d9d9d9;
+        height: 40%;
+        width: 68%;
+        font-size: 30px;
+        color: #96344e;
+        text-align: left;
+        padding-top: 25%;
+        padding-left: 2%;
+      } */
+      #home_section_emphasized_content_section {
+        font-size: 4vw;
+      }
+      /* #profile_picture_container {
+        background-color: red;
+        height: 390px;
+        width: 240px;
+        background-image: url(https://github.com/papad21297/images-on-github/blob/main/profile-picture-for-webpage-based-cv.jpg?raw=true);
+        background-size: cover;
+        border-radius: 5%;
+        position: relative;
+        top: -100%;
+        left: 75%;
+      } */
+      #skills_and_careers_section {
+        background: linear-gradient(0deg, #ffc5e0 10%, purple 80%);
+        width: 80%;
+        height: 3400px;
+        position: relative;
+        left: 5%;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        border-radius: 30px;
+        padding: 5%;
+        text-align: left;
+        font-size: 2vw;
+        color: #ffffff;
+      }
+      #past_work_image {
+        width: 100%;
+      }
+      #contact_section {
+        background: linear-gradient(0deg, #ffc5e0 10%, purple 80%);
+        width: 80%;
+        height: 400px;
+        position: relative;
+        left: 5%;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        border-radius: 30px;
+        padding: 5%;
+        font-size: 4vw;
+        color: #ffffff;
+      }
+      #contact_icon_image {
+        border-radius: 30px;
+      }
+      #contact_link {
+        color: #ffffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="nav_bar_content">
+      <div id="nav_bar_item"><a href="#home_section">Home</a></div>
+      <div id="nav_bar_item">
+        <a href="#skills_and_careers_section">Skills & Careers</a>
+      </div>
+      <div id="nav_bar_item">
+        <a href="#contact_section">Contact</a>
+      </div>
+    </div>
+    <div id="home_section">
+      <div id="left">
+        <span id="home_section_emphasized_content_section">พัฒน์</span>
+        - ปภัส เงาธัมมะสกุล: <br />
+        เป็นผู้ที่ชื่นชอบในการ
+        <span id="home_section_emphasized_content_section">สร้างซอฟต์แวร์</span>
+      </div>
+      <div id="right"></div>
+      <!-- <div id="home_section_content_section">
+        <span id="home_section_emphasized_content_section">พัฒน์</span>
+        - ปภัส เงาธัมมะสกุล: <br />
+        เป็นผู้ที่ชื่นชอบในการ
+        <span id="home_section_emphasized_content_section">สร้างซอฟต์แวร์</span>
+      </div>
+      <div id="profile_picture_container"></div> -->
+    </div>
+    <div id="skills_and_careers_section">
+      ทักษะและผลงาน <br />
+      - ทักษะ: <br />
+      &nbsp; - HTML+CSS+JS <br />
+      &nbsp; - CSS Framework: Bootstrap, Bulma <br />
+      &nbsp; - frontent JS Framework: VueJS, React, React Native <br />
+      <div id="skills_and_careers_section_bottom_content">
+        - ผลงาน: <br />
+        &nbsp; - มีความคุ้นเคยกับการใช้เทคโนโลยี "React-Native" <br />
+        &nbsp; &nbsp; ในการพัฒนาโมบายล์แอปพลิเคชัน <br />
+        &nbsp; - เคยใช้ Framework ของ Javascript ที่มีชื่อว่า "Vue" <br />
+        &nbsp; &nbsp; ในการพัฒนาเว็บแอปพลิเคชันที่เลียนแบบ <br />
+        &nbsp; &nbsp; มาจากเกมบนสมาร์ทโฟนที่มีชื่อว่า "1010!" <br />
+        &nbsp; &nbsp; ซึ่งมีรายละเอียดดังภาพด้านล่าง: <br />
+        <img
+          id="past_work_image"
+          src="https://github.com/papad21297/images-on-github/blob/main/my-past-work-for-webpage-based-cv.png?raw=true"
+          alt="my past work for webpage based cv"
+        />
+      </div>
+      <!-- <div id="home_section_content_section">
+        <span id="home_section_emphasized_content_section">พัฒน์</span>
+        - ปภัส เงาธัมมะสกุล: <br />
+        เป็นผู้ที่ชื่นชอบในการ
+        <span id="home_section_emphasized_content_section">สร้างซอฟต์แวร์</span>
+      </div> -->
+      <!-- <div id="profile_picture_container"></div> -->
+    </div>
+    <div id="contact_section">
+      Contact Me! <br />
+      <div id="card_body" class="card-body">
+        <img
+          id="contact_icon_image"
+          src="https://github.com/papad21297/images-on-github/blob/main/icon-for-contact-collection/phone-number-icon.png?raw=true"
+          alt="phone number icon"
+          height="60"
+        />
+        : 089-516-5977 <br />
+        <img
+          id="contact_icon_image"
+          src="https://github.com/papad21297/images-on-github/blob/main/icon-for-contact-collection/facebook-profile-icon.png?raw=true"
+          alt="phone number icon"
+          height="60"
+        />
+        :
+        <a id="contact_link" href="https://fb.com/Papad.Ngaothammasakun"
+          >Click Me</a
+        >
+        <br />
+        <img
+          id="contact_icon_image"
+          src="https://github.com/papad21297/images-on-github/blob/main/icon-for-contact-collection/email-address-icon.png?raw=true"
+          alt="phone number icon"
+          height="60"
+        />
+        : papad21297@gmail.com <br />
+      </div>
+    </div>
+    <div>-</div>
+  </body>
+</html>
