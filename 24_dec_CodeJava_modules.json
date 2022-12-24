@@ -109,7 +109,7 @@
       "object_02": {
         "object_content": {
           "object_00": {
-            "amount": 9
+            "amount": 12
           },
           "object_01": {
             "object_00": {
@@ -236,6 +236,48 @@
             "object_03": {
               "page_type": "lesson"
             }
+          },
+          "object_10": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_10"
+            },
+            "object_02": {
+              "page_name": "Which of the following is the correct way to send number 5 to the screen?"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_11": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_11"
+            },
+            "object_02": {
+              "page_name": "Lesson Takeaways"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_12": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_12"
+            },
+            "object_02": {
+              "page_name": "Drang and drop to generate the output \"Lesson Completed!\""
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
           }
         }
       }
@@ -250,7 +292,7 @@
       "object_02": {
         "object_content": {
           "object_00": {
-            "amount": 18
+            "amount": 21
           },
           "object_01": {
             "object_00": {
@@ -1165,7 +1207,7 @@
           },
           "object_18": {
             "object_00": {
-              "amount": 3
+              "amount": 1
             },
             "object_01": {
               "section_id": "module_01_chapter_01.1_page_09_section_03"
@@ -1187,6 +1229,236 @@
                   },
                   "object_02": {
                     "text_content": "Remember, you still need to enclose the message you want to output in parentheses."
+                  }
+                }
+              }
+            }
+          },
+          "object_19": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_10_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println(5);"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.screen(5);"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "System.println(5);"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_20": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_11_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 9
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Awesome! Now you know how to output text and numbers with Java!\n\nRemember the following important points:\n- Java is one of the most popular programming languages in the world.\n- Java is "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "platform-independent"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ", which means that you only need to write the program once to be able to run it on a number of different platforms and devices\n- You can use "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println()"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " to send a message or output to the screen.\n- In Java, each code "
+                  }
+                },
+                "object_06": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "statement"
+                  }
+                },
+                "object_07": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " must end with a "
+                  }
+                },
+                "object_08": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "semicolon"
+                  }
+                },
+                "object_09": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "."
+                  }
+                }
+              }
+            }
+          },
+          "object_21": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_12_section_01"
+            },
+            "object_02": {
+              "section_type": "elmements_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "incompleted_statement_with_styling_of_code_snippet_colorcoding"
+                  },
+                  "object_02": {
+                    "text_content": "start-07: \"System.\", 11-11: \".\", 17-17: \"(\", 37-end: \");\", keyword_information: [\"System\"], punctuation: [\".\", \";\"], brackets: [\"(\", \")\"], method_name: [\"println\"], constant: [\"out\"], string: [\"\\\"Lesson Completed!\\\"\"]"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "[\"\\\"Lesson Completed!\\\"\", \"out\", \"println\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "object_02[1], object_02[2], object_02[0]"
                   }
                 }
               }
