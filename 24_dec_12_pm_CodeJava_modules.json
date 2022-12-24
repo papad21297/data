@@ -292,7 +292,10 @@
       "object_02": {
         "object_content": {
           "object_00": {
-            "amount": 21
+            "amount": 21,
+            "object_03": {
+              "section_content": {}
+            }
           },
           "object_01": {
             "object_00": {
