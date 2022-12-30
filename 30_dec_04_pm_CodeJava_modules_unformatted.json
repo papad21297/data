@@ -1,0 +1,3416 @@
+{
+  "data_for_mobile_application_for_learning_java": {
+    "object_00": {
+      "amount": 4
+    },
+    "object_01": {
+      "object_00": {
+        "amount": 2
+      },
+      "object_01": {
+        "object_name": "modules"
+      },
+      "object_02": {
+        "object_content": {
+          "object_00": {
+            "amount": 1
+          },
+          "object_01": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "module_id": "module_01"
+            },
+            "object_02": {
+              "module_name": "Basic Concepts"
+            }
+          }
+        }
+      }
+    },
+    "object_02": {
+      "object_00": {
+        "amount": 2
+      },
+      "object_01": {
+        "object_name": "chapters"
+      },
+      "object_02": {
+        "object_content": {
+          "object_00": {
+            "amount": 5
+          },
+          "object_01": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "chapter_id": "module_01_chapter_01.1"
+            },
+            "object_02": {
+              "chapter_name": "Your First Lesson"
+            }
+          },
+          "object_02": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "chapter_id": "module_01_chapter_02.1"
+            },
+            "object_02": {
+              "chapter_name": "Variables"
+            }
+          },
+          "object_03": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "chapter_id": "module_01_chapter_02.2"
+            },
+            "object_02": {
+              "chapter_name": "Vehicle Passport"
+            }
+          },
+          "object_04": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "chapter_id": "module_01_chapter_03.1"
+            },
+            "object_02": {
+              "chapter_name": "Java Comments"
+            }
+          },
+          "object_05": {
+            "object_00": {
+              "amount": 2
+            },
+            "object_01": {
+              "chapter_id": "module_01_chapter_03.2"
+            },
+            "object_02": {
+              "chapter_name": "To Comment Or Not To Comment"
+            }
+          }
+        }
+      }
+    },
+    "object_03": {
+      "object_00": {
+        "amount": 2
+      },
+      "object_01": {
+        "object_name": "pages"
+      },
+      "object_02": {
+        "object_content": {
+          "object_00": {
+            "amount": 24
+          },
+          "object_01": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_01"
+            },
+            "object_02": {
+              "page_name": "Welcome to Java!"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_02": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_02"
+            },
+            "object_02": {
+              "page_name": "True or false? Java is used only to build web apps"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_03": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_03"
+            },
+            "object_02": {
+              "page_name": "Write once, run anywhere"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_04": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_04"
+            },
+            "object_02": {
+              "page_name": "write once, run everywhere. This slogan means that:"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_05": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_05"
+            },
+            "object_02": {
+              "page_name": "Output"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_06": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_06"
+            },
+            "object_02": {
+              "page_name": "Which instruction sends a line of text to the screen?"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_07": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_07"
+            },
+            "object_02": {
+              "page_name": "Statements"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_08": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_08"
+            },
+            "object_02": {
+              "page_name": "Each Java statement needs to end with a:"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_09": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_09"
+            },
+            "object_02": {
+              "page_name": "Numerical Output"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_10": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_10"
+            },
+            "object_02": {
+              "page_name": "Which of the following is the correct way to send number 5 to the screen?"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_11": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_11"
+            },
+            "object_02": {
+              "page_name": "Lesson Takeaways"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_12": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_01.1_page_12"
+            },
+            "object_02": {
+              "page_name": "Drag and drop to generate the output \"Lesson Completed!\""
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_13": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_02.1_page_01"
+            },
+            "object_02": {
+              "page_name": "Variables"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_14": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_02.1_page_02"
+            },
+            "object_02": {
+              "page_name": "Which type would you use for a city name?"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_15": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_02.1_page_03"
+            },
+            "object_02": {
+              "page_name": "Variables"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_16": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_02.1_page_04"
+            },
+            "object_02": {
+              "page_name": "Drag and drop from the options below to have a valid Java program."
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_17": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_02.2_page_01"
+            },
+            "object_02": {
+              "page_name": "Vehicle Passport"
+            },
+            "object_03": {
+              "page_type": "mini_coding_problem"
+            }
+          },
+          "object_18": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_01"
+            },
+            "object_02": {
+              "page_name": "Variables"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_19": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_02"
+            },
+            "object_02": {
+              "page_name": "Single-line comments are created using:"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_20": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_03"
+            },
+            "object_02": {
+              "page_name": "Multi-Line Comments"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_21": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_04"
+            },
+            "object_02": {
+              "page_name": "Make this text a multi-line comment."
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_22": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_05"
+            },
+            "object_02": {
+              "page_name": "Documentation Comments"
+            },
+            "object_03": {
+              "page_type": "lesson"
+            }
+          },
+          "object_23": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.1_page_06"
+            },
+            "object_02": {
+              "page_name": "You can add a Java doc style comment by using:"
+            },
+            "object_03": {
+              "page_type": "exercise"
+            }
+          },
+          "object_24": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "page_id": "module_01_chapter_03.2_page_01"
+            },
+            "object_02": {
+              "page_name": "Comments"
+            },
+            "object_03": {
+              "page_type": "mini_coding_problem"
+            }
+          }
+        }
+      }
+    },
+    "object_04": {
+      "object_00": {
+        "amount": 2
+      },
+      "object_01": {
+        "object_name": "sections"
+      },
+      "object_02": {
+        "object_content": {
+          "object_00": {
+            "amount": 58
+          },
+          "object_01": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_01_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Java"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " is one of the most popular programming languages."
+                  }
+                }
+              }
+            }
+          },
+          "object_02": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_01_section_02"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "You can use "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Java"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " to build Android Apps, games, banking applications, web apps, and much more!"
+                  }
+                }
+              }
+            }
+          },
+          "object_03": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_01_section_03"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "In this course you'll learn Java to build real-life projects while practicing."
+                  }
+                }
+              }
+            }
+          },
+          "object_04": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_02_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "False"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "True"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_05": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_03_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Java's slogan is \""
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Write once, run anywhere"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "\".\n\nThie means that the same Java code can run on different platforms, including mobile, desktop and other portable systems."
+                  }
+                }
+              }
+            }
+          },
+          "object_06": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_04_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "Java is platform-independent"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "Java suggests you to do cardio exercise more often"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "You need to write a separate code for each platform"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_07": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_05_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 7
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Let's start coding. The code below sends the Java slogan to the screen. Press the code block to open the "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Code Playground"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ", then press "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "run"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " to see the message or "
+                  }
+                },
+                "object_06": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "output"
+                  }
+                },
+                "object_07": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "."
+                  }
+                }
+              }
+            }
+          },
+          "object_08": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_05_section_02"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_with_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println(\n        \"Write once, run anywhere!\"\n);"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword_information: [\"System\"], punctuation: [\".\", \"+\", \";\"], brackets: [\"(\", \")\"], method_name: [\"println\"], constant: [\"out\"], string: [\"\\\"Write once,\\\"\", \"\\\" run anywhere!\\\"\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "class MyClass {\n  public static void main(\n      String[] args\n  ) {\n    System.out.println(\n        \"Write once,\"\n        + \" run anywhere!\"\n    );\n  }\n}"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\"], keyword_information: [\"MyClass\", \"void\", \"String\", \"System\"], punctuation: [\";\", \".\", \"+\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\", \"println\"], variable_name: [\"args\"], constant: [\"out\"], string: [\"\\\"Write once,\\\"\", \"\\\" run anywhere!\\\"\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_09": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_05_section_03"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Quotation marks are needed to output text."
+                  }
+                }
+              }
+            }
+          },
+          "object_10": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_05_section_04"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "When you open the code in the Playground, you'll see some extra lines of code that are needed for the code to work. You'll learn about these extra lines in the coming lessons."
+                  }
+                }
+              }
+            }
+          },
+          "object_11": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_06_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "log()"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "printText()"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println()"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_03"
+                  }
+                }
+              }
+            }
+          },
+          "object_12": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_07_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 5
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "In programming, a "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "statement"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " is a single line of code that performs a specific task.\n\nSo the example code that outputs the slogan is a "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "statement"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "."
+                  }
+                }
+              }
+            }
+          },
+          "object_13": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_07_section_02"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_with_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println(\n        \"Write once, run anywhere!\"\n);"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword_information: [\"System\"], punctuation: [\".\", \"+\", \";\"], brackets: [\"(\", \")\"], method_name: [\"println\"], constant: [\"out\"], string: [\"\\\"Write once,\\\"\", \"\\\" run anywhere!\\\"\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "class MyClass {\n  public static void main(\n      String[] args\n  ) {\n    System.out.println(\n        \"Write once,\"\n        + \" run anywhere!\"\n    );\n  }\n}"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\"], keyword_information: [\"MyClass\", \"void\", \"String\", \"System\"], punctuation: [\";\", \".\", \"+\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\", \"println\"], variable_name: [\"args\"], constant: [\"out\"], string: [\"\\\"Write once,\\\"\", \"\\\" run anywhere!\\\"\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_14": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_07_section_03"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Each statement needs to end with a "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "semicolon"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " (;)."
+                  }
+                }
+              }
+            }
+          },
+          "object_15": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_08_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 5
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "colon"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "comma"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "quote"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "semicolon"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_04"
+                  }
+                }
+              }
+            }
+          },
+          "object_16": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_09_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "You don't need the quotes to output numbers."
+                  }
+                }
+              }
+            }
+          },
+          "object_17": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_09_section_02"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_with_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println(60);"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword_information: [\"System\"], punctuation: [\".\", \";\"], brackets: [\"(\", \")\"], method_name: [\"println\"], constant: [\"out\"], number: [\"60\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "class Demo {\n  public static void main(\n      String[] args\n  ) {\n    System.out.println(\n        60\n    );\n  }\n}"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\"], keyword_information: [\"Demo\", \"void\", \"String\", \"System\"], punctuation: [\";\", \".\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\", \"println\"], variable_name: [\"args\"], constant: [\"out\"], number: [\"60\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_18": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_09_section_03"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Remember, you still need to enclose the message you want to output in parentheses."
+                  }
+                }
+              }
+            }
+          },
+          "object_19": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_10_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println(5);"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.screen(5);"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "System.println(5);"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_20": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_11_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 9
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Awesome! Now you know how to output text and numbers with Java!\n\nRemember the following important points:\n- Java is one of the most popular programming languages in the world.\n- Java is "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "platform-independent"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ", which means that you only need to write the program once to be able to run it on a number of different platforms and devices\n- You can use "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "System.out.println()"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " to send a message or output to the screen.\n- In Java, each code "
+                  }
+                },
+                "object_06": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "statement"
+                  }
+                },
+                "object_07": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " must end with a "
+                  }
+                },
+                "object_08": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "semicolon"
+                  }
+                },
+                "object_09": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "."
+                  }
+                }
+              }
+            }
+          },
+          "object_21": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_01.1_page_12_section_01"
+            },
+            "object_02": {
+              "section_type": "elmements_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "incompleted_statement_with_styling_of_code_snippet_colorcoding"
+                  },
+                  "object_02": {
+                    "text_content": "start-07: \"System.\", 11-11: \".\", 17-17: \"(\", 37-end: \");\", keyword_information: [\"System\"], punctuation: [\".\", \";\"], brackets: [\"(\", \")\"], method_name: [\"println\"], constant: [\"out\"], string: [\"\\\"Lesson Completed!\\\"\"]"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "[\"\\\"Lesson Completed!\\\"\", \"out\", \"println\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "object_02[1], object_02[2], object_02[0]"
+                  }
+                }
+              }
+            }
+          },
+          "object_22": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_01_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 12
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Variables"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " store data for processing.\nA variable is given a name (or "
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "identifier"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "), such as area, age, height, and the like. The name uniquely identifies each variable, assigning a value to the variable and retrieving the value stored.\n\nVariables have "
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "types"
+                  }
+                },
+                "object_06": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ". Some examples: - "
+                  }
+                },
+                "object_07": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "int"
+                  }
+                },
+                "object_08": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ": for integers (whole numbers such as 123 and -456\n- "
+                  }
+                },
+                "object_09": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "double"
+                  }
+                },
+                "object_10": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ": for floating-point or real numbers with optional decimal points and fractional parts in fixed or scientific notations, such as 3.1415, -55.56.\n- "
+                  }
+                },
+                "object_11": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "String"
+                  }
+                },
+                "object_12": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ": for texts such as \"Hello\" or \"Good Morning!\". Text strings are enclosed within double quotes.\n\nYou can declare a variable of a type and assign it a value."
+                  }
+                }
+              }
+            }
+          },
+          "object_23": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_01_section_02"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_24": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_01_section_03"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "String name = \"David\";"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword_information: [\"String\"], variable_name: [\"name\"], punctuation: [\"=\", \";\", string: [\"\\\"David\\\"\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_25": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_01_section_04"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 5
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "This creates a variable called "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "name"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " of type "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "String"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ". and assigns it the value \"David\"."
+                  }
+                }
+              }
+            }
+          },
+          "object_26": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_01_section_05"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "It is important to note that a variable is associated with a type, and is only capable of storing values of that particular type. For example, an "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "It is important to note that a variable is associated with a type, and is only capable of storing values of that particular type. For example, an "
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " variable can store integer values, such as 123; but it cannot store real numbers, such as 12.34, or texts, such as \"Hello\"."
+                  }
+                }
+              }
+            }
+          },
+          "object_27": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_02_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "double"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "int"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "String"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_03"
+                  }
+                }
+              }
+            }
+          },
+          "object_28": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Examples of variable declarations:"
+                  }
+                }
+              }
+            }
+          },
+          "object_29": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_02"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_with_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "class MyClass {\n    public static void main(\n            String [] args\n    {\n        String name = \"David\";\n        int age = 42;\n        double score = 15.9;\n        char group = 'Z'\n    }\n}"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\", \"void\", \"int\", \"double\", \"char\"], keyword_information: [\"MyClass\", \"String\"], punctuation: [\"=\", \";\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\"], method_name: [\"main\"], variable_name: [\"args\", \"name\", \"age\", \"score\", \"group\"], string: [\"\\\"David\\\"\", \"'Z'\"], number: [\"42\", \"15.9\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "class MyClass {\n    public static void main(\n            String [] args\n    {\n        String name = \"David\";\n        int age = 42;\n        double score = 15.9;\n        char group = 'Z'\n    }\n}"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_body_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\", \"void\", \"int\", \"double\", \"char\"], keyword_information: [\"MyClass\", \"String\"], punctuation: [\"=\", \";\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\"], method_name: [\"main\"], variable_name: [\"args\", \"name\", \"age\", \"score\", \"group\"], string: [\"\\\"David\\\"\", \"'Z'\"], number: [\"42\", \"15.9\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_30": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_03"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 8
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "char"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "stands for character and holds a single character.\n\nAnother type is the "
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Boolean"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " type, which has only two possible values: "
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "true"
+                  }
+                },
+                "object_06": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " and "
+                  }
+                },
+                "object_07": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "false"
+                  }
+                },
+                "object_08": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": ".\nThis data type is used for simple flags that track true/false conditions"
+                  }
+                }
+              }
+            }
+          },
+          "object_31": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_04"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "For example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_32": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_05"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "boolean online = true;"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"boolean\", \"true\"], variable_name: [\"online\"], punctuation: [\"=\", \";\""
+                  }
+                }
+              }
+            }
+          },
+          "object_33": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_06"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "You can use a comma-separated list to declare more than one variable of the specified type. Example: int a = 42, b = 11;"
+                  }
+                }
+              }
+            }
+          },
+          "object_34": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_03_section_07"
+            },
+            "object_02": {
+              "section_type": "header_of_content_for_solving_mini_coding_problem"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_header_text"
+                  },
+                  "object_02": {
+                    "text_content": "Vehicle Passport"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_subheader_text"
+                  },
+                  "object_02": {
+                    "text_content": "Output the properties of the vehicle."
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "section_id_of_content_for_displaying_body_of_mini_coding_problem"
+                  },
+                  "object_02": {
+                    "text_content": "module_01_chapter_02.1_page_01_section_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_35": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.1_page_04_section_01"
+            },
+            "object_02": {
+              "section_type": "elmements_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "incompleted_statement_with_styling_of_code_snippet_colorcoding"
+                  },
+                  "object_02": {
+                    "text_content": "start-72: \"class Apples {\\n  public static void main(\\n      String[] args\\n  ) {\\n    \", 79-97: \" name = \\\"John\\\";\\n    \", 101-115: \" age = 24;\\n    \", 122-end: \" height = 189.87;\\n  }\\n}\\n\", keyword: [\"class\", \"public\", \"static\", \"true\"], keyword_information: [\"Apples\", \"void\", \"String\", \"int\", \"double\"], punctuation: [\"=\", \";\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\"], variable_name: [\"args\", \"name\", \"age\", \"height\"], string: [\"\\\"John\\\"\"], number: [\"24\", \"189.87\"]"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "[\"class\", \"double\", \"int\", \"String\", \"true\", \"void\"]"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_incompleted_statement_and_choices_of_answer_for_dragging_and_dropping_to_the_according_missing_part_of_the_statement"
+                  },
+                  "object_02": {
+                    "text_content": "object_02[3], object_02[2], object_02[1]"
+                  }
+                }
+              }
+            }
+          },
+          "object_36": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_02.2_page_01_section_01"
+            },
+            "object_02": {
+              "section_type": "body_of_content_for_solving_mini_coding_problem"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_problem_detail_text"
+                  },
+                  "object_02": {
+                    "text_content": "{ \"page_name\": \"Variables\", \"sections\": { \"section_01\": { \"section_type\": \"regular_content\", \"section_content\": { \"object_01\": { \"text_type\": \"regular_text\", \"text_content\": \"You are given lines of commented code.\\nUncomment the required lines in order to have a \\\"Java is awesome\\\" output.\" } } }, \"section_02\": { \"section_type\": \"emphasized_content\", \"section_content\":  { \"object_01\": { \"text_type\": \"regular_text\", \"text_content\": \"Be careful not to uncomment extra lines.\" } } } } }"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_body_content_of_java_code_for_starting_solving"
+                  },
+                  "object_02": {
+                    "text_content": "public class Program {\n  public static void main(\n      String[] args\n  ) {\n    // fix the variable types\n    double name = \"Toyota\";\n    int engine = 4.7;\n    String year = 2019;\n\n    System.out.println(\n      \"Name: \" + name\n    );\n    System.out.println(\n      \"Engine: \" + engine\n    );\n    System.out.println(\n      \"Year: \" + year\n    );\n  }\n}\n"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_colorcoding_information_for_body_content_of_java_code_for_starting_solving"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"public\", \"class\", \"static\"], keyword_information: [\"Program\", \"void\", \"String\", \"double\", \"int\", \"System\"], punctuation: [\"=\", \";\", \".\", \"+\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\", \"println\"], variable_name: [\"args\", \"name\", \"engine\", \"year\"], constant: [\"out\"], string: [\"\\\"Toyota\\\"\", \"\\\"Name: \\\"\", \"\\\"Engine: \\\"\", \"\\\"Year: \\\"\"], number: [\"4.7\", \"2019\"], docstring: [\"// fix the variable types\"]"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_colorcoding_test_cases_content_for_the_attempt_of_solving_with_java_code"
+                  },
+                  "object_02": {
+                    "text_content": "{ \"test_case_1\": { \"is_input_needed\": \"no\", \"expected_output\": \"Name: Toyota, Engine: 4.7, Year: 2019\" } }"
+                  }
+                }
+              }
+            }
+          },
+          "object_37": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_01_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 5
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "The purpose of including comments in your code is to explain what the code is doing.\nJava supports both single and multi-line comments. All characters that appear within a comment are ignored by the Java compiler.\n\nA "
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "single-line"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " comment starts with "
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": " two forward slashes"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " and continues until it reaches the end of the line."
+                  }
+                }
+              }
+            }
+          },
+          "object_38": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_01_section_02"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "For example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_39": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_01_section_03"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "// this is a single-line comment\nx = 5; // a single-line comment\n       // after code"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "variable_name: [\"x\"], punctuation: [\"=\", \";\"], number: [\"5\"], docstring: [\"// this is a single-line comment\", \"// a single-line comment\", \"// after code\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_40": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_01_section_04"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Adding comments as you write code is a good practice, because they provide clarification and understanding when you need to refer back to it, as well as for others who might need to read it."
+                  }
+                }
+              }
+            }
+          },
+          "object_41": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_01_section_05"
+            },
+            "object_02": {
+              "section_type": "header_of_content_for_solving_mini_coding_problem"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 3
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_header_text"
+                  },
+                  "object_02": {
+                    "text_content": "To Comment Or Not To Comment"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_subheader_text"
+                  },
+                  "object_02": {
+                    "text_content": "Uncomment required lines in order to have the required output."
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "section_id_of_content_for_displaying_body_of_mini_coding_problem"
+                  },
+                  "object_02": {
+                    "text_content": "module_01_chapter_03.1_page_01_section_01"
+                  }
+                }
+              }
+            }
+          },
+          "object_42": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_02_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "** characters at the beginning of the line"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "*/ characters at the beginning of the line"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "// characters at the beginning of the line"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "// characters at the end of the line"
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_03"
+                  }
+                }
+              }
+            }
+          },
+          "object_43": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Java also supports comments that span multiple lines. You start this type of comment with a forward slash followed by an asterisk, and end it with an asterisk followed by a forward slash."
+                  }
+                }
+              }
+            }
+          },
+          "object_44": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_02"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "For example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_45": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_03"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "/*  This is also a\n    comment spanning\n    multiple lines */"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "docstring: [\"/*  This is also a\", \"comment spanning\", \"multiple lines */\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_46": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_04"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Note that Java does not support nested multi-line comments.\nHowever, you can nest single-line comments within multi-line comments."
+                  }
+                }
+              }
+            }
+          },
+          "object_47": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_05"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "/* This is a single-line comment:\n\n    // single-line comment\n\n */"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "docstring: [\"/* This is a single-line comment:\", \"// single-line comment\", \"*/\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_48": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_03_section_06"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "Another name for a Multi-Line comment is a Block comment."
+                  }
+                }
+              }
+            }
+          },
+          "object_49": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_04_section_01"
+            },
+            "object_02": {
+              "section_type": "elmements_for_question_with_incompleted_statement_that_need_for_answers_to_be_filled_in_by_typing_correct_answers"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "incompleted_statement_with_styling_of_code_snippet_colorcoding"
+                  },
+                  "object_02": {
+                    "text_content": "start-0: \"\", 3-23: \" some\n * comment text\n \" 26-end\"\", docstring: [\"/* some\", \"* comment text\", \"*/\"]"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_incompleted_statement_that_need_for_answers_to_be_filled_in_by_typing_correct_answers"
+                  },
+                  "object_02": {
+                    "text_content": "[\"/*\", \"*/\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_50": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_01"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Documentation comments"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " are special comments that have the appearance of multi-line comments, with the difference being that they generate external documentation of your source code. These begin with a forward slash followed by two asterisks, and end with an asterisk followed by a forward slash."
+                  }
+                }
+              }
+            }
+          },
+          "object_51": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_02"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "For example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_52": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_03"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "/**  This is a documentation comment */\n\n/**  This is also a\n    documentation comment */"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "docstring: [\"/**  This is a documentation comment */\", \"/**  This is also a\", \"documentation comment */\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_53": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_04"
+            },
+            "object_02": {
+              "section_type": "regular_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "Javadoc"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": " is a tool which comes with JDK and it is used for generating Java code documentation in HTML format from Java source code which has required documentation in a predefined format.\n\nWhen a documentation comment begins with more than two asterisks, Javadoc assumes that you want to create a \"box\" around the comment in the source code. It simply ignores the extra asterisks."
+                  }
+                }
+              }
+            }
+          },
+          "object_54": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_05"
+            },
+            "object_02": {
+              "section_type": "subheading_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "bold_text"
+                  },
+                  "object_02": {
+                    "text_content": "For example:"
+                  }
+                }
+              }
+            }
+          },
+          "object_55": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_06"
+            },
+            "object_02": {
+              "section_type": "code_snippet_content_without_executing_ability"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 2
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "/**********************\n\nThis is the start of a method\n***********************/"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "colorcoding_information_for_cover_content_for_code_snippet"
+                  },
+                  "object_02": {
+                    "text_content": "docstring: [\"/**********************\", \"This is the start of a method\", \"***********************/\"]"
+                  }
+                }
+              }
+            }
+          },
+          "object_56": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_05_section_07"
+            },
+            "object_02": {
+              "section_type": "emphasized_content"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 1
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "regular_text"
+                  },
+                  "object_02": {
+                    "text_content": "This will retain just the text \"This is the start of a method\" for the documentation."
+                  }
+                }
+              }
+            }
+          },
+          "object_57": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.1_page_06_section_01"
+            },
+            "object_02": {
+              "section_type": "choices_for_multiple_choice_question_with_single_correct_answer"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "/* and */ characters to wrap a comment."
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "choice_of_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "/** and */ characters to wrap a comment."
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "// and */ characters to wrap a comment."
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": ""
+                  },
+                  "object_02": {
+                    "text_content": "// characters in the beginning of the line."
+                  }
+                },
+                "object_05": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "correct_answer_for_question_with_single_correct_answer"
+                  },
+                  "object_02": {
+                    "text_content": "object_02"
+                  }
+                }
+              }
+            }
+          },
+          "object_58": {
+            "object_00": {
+              "amount": 3
+            },
+            "object_01": {
+              "section_id": "module_01_chapter_03.2_page_01_section_01"
+            },
+            "object_02": {
+              "section_type": "body_of_content_for_solving_mini_coding_problem"
+            },
+            "object_03": {
+              "section_content": {
+                "object_00": {
+                  "amount": 4
+                },
+                "object_01": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_problem_detail_text"
+                  },
+                  "object_02": {
+                    "text_content": "{ \"page_name\": \"Variables\", \"sections\": { \"section_01\": { \"section_type\": \"regular_content\", \"section_content\": { \"object_01\": { \"text_type\": \"regular_text\", \"text_content\": \"You are given code which outputs the properties of a vehicle, but something is wrong.\n\n\" }, \"object_02\": { \"text_type\": \"bold_text\", \"text_content\": \"Task\" }, \"object_03\": { \"text_type\": \"regular_text\", \"text_content\": \"\nFix the code to print the properties.\n\n\" }, \"object_04\": { \"text_type\": \"bold_text\", \"text_content\": \"Output\" }, \"object_05\": { \"text_type\": \"regular_text\", \"text_content\": \"\nName: Toyota\nEngine: 4.7\nYear: 2019\" } } }, \"section_02\": { \"section_type\": \"emphasized_content\", \"section_content\":  { \"object_01\": { \"text_type\": \"regular_text\", \"text_content\": \"Note carefully the types of variables. Change them to the appropriate type.\" } } } } }"
+                  }
+                },
+                "object_02": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_body_content_of_java_code_for_starting_solving"
+                  },
+                  "object_02": {
+                    "text_content": "public class Main {\n  public static void main(\n      String[] args\n  ) {\n    // uncomment necessary line(s)\n    // System.out.println(\n    //     \"Java is lame\"\n    // );\n    // System.out.println(\n    //     \"Java is awesome\"\n    // );\n    // System.out.println(\n    //     \"Please uncomment\"\n    //     + \" me!!! ^^\"\n    // );\n  }\n}\n"
+                  }
+                },
+                "object_03": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_colorcoding_information_for_body_content_of_java_code_for_starting_solving"
+                  },
+                  "object_02": {
+                    "text_content": "keyword: [\"class\", \"public\", \"static\"], keyword_information: [\"Main\", \"void\", \"String\"], brackets: [\"{\", \"(\", \"[\", \"]\", \")\", \"}\"], method_name: [\"main\"], variable_name: [\"args\"], docstring: [\"// uncomment necessary line(s)\", \"// System.out.println(\", \"//     \\\"Java is lame\\\"\", \"// );\", \"// System.out.println(\", \"//     \\\"Java is awesome\\\"\", \"// );\", \"// System.out.println(\", \"//     \\\"Please uncomment\\\"\", \"//     + \\\"me!!! ^^\\\"\", \"// );\"]"
+                  }
+                },
+                "object_04": {
+                  "object_00": {
+                    "amount": 2
+                  },
+                  "object_01": {
+                    "text_type": "mini_coding_problem_colorcoding_test_cases_content_for_the_attempt_of_solving_with_java_code"
+                  },
+                  "object_02": {
+                    "text_content": "{ \"test_case_1\": { \"is_input_needed\": \"no\", \"expected_output\": \"Java is awesome\" } }"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
